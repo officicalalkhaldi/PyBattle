@@ -1,2 +1,2 @@
-Player: 3
+Player: 0
 Computer: 0
