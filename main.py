@@ -1,3 +1,4 @@
+import os
 from random import choice
 from typing import Tuple
 
@@ -72,7 +73,11 @@ def main() -> None:
             computer_score = 0
             break
         elif choice_of == "c":
-            break
+            if os.path.isfile("scores.txt"):
+                with open("scores.txt", "r") as f:
+                    player_score = int(f.readline().split(": ")[1])
+                    computer_score = int(f.readline().split(": ")[1])
+                    break
         else:
             print("Invalid input")
     
