@@ -1,5 +1,5 @@
 {
     "title" : "PyBattle",
     "version" : "1.0",
-    "Description" : "Rock, Paper, Scissors" is a classic hand game played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. The shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index and middle fingers extended, forming a V). In this Python implementation of the game, you play against the computer. The computer's choice is determined randomly, and you can choose to play as many rounds as you want. The scores are displayed after each round, and you have the option to save the scores to a file and quit the game at any time. Have fun playing!"
+    "Description" : "Rock, Paper, Scissors is a classic hand game played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. The shapes are rock (a closed fist), paper (a flat hand), and scissors (a fist with the index and middle fingers extended, forming a V). In this Python implementation of the game, you play against the computer. The computer's choice is determined randomly, and you can choose to play as many rounds as you want. The scores are displayed after each round, and you have the option to save the scores to a file and quit the game at any time. Have fun playing!"
 }
