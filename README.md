@@ -18,5 +18,5 @@ Follow the on-screen instructions to play the game.
 <br>
 
 # **Credits**  
-Created by @officicalalkhaldi.  
+created by [@officialalkhaldi](https://github.com/officialalkhaldi)..  
 please don't buy me a coffee and happy gaming.  
